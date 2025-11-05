@@ -1,6 +1,6 @@
 ## Credit Based Loan Prediction
 
-This project predicts loan approval status for applicants using machine learning models. The goal is to demonstrate end-to-end ML workflow including data preprocessing, feature engineering, model training, evaluation, and prediction.  
+A machine learning project that predicts loan approval status for applicants based on demographic, financial, and employment data. It demonstrates end-to-end ML workflow including data cleaning, feature engineering, model training, evaluation, and generating test predictions. Multiple algorithms are compared to select the best-performing model, and the notebook is ready to run in Google Colab or Jupyter.
 
 ## Dataset
 The dataset contains information about loan applicants, including demographic, financial, and employment details.
